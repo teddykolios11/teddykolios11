@@ -6,7 +6,7 @@ My graduate work focuses on machine learning, statistical modeling, and large-sc
 
 Below you can find a few projects I've worked on recently!
 
-##Featured Projects##
+## Featured Projects ##
 
 ⸻
 
