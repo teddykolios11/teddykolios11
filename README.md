@@ -1,4 +1,12 @@
-**Featured Projects**
+
+
+Hello, my name is Teddy Kolios and I'm a current graduate student in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago, graduating June 2026, with a strong foundation in computer science, software engineering, and data engineering, and hands-on experience delivering code in fast-paced, production-oriented environments.
+
+My graduate work focuses on machine learning, statistical modeling, and large-scale data systems, and I’m actively pursuing data scientist roles where I can apply these skills to build scalable, data-driven solutions to real-world problems.
+
+Below you can find a few projects I've worked on recently!
+
+##Featured Projects##
 
 ⸻
 
