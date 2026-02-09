@@ -37,7 +37,7 @@ Below are a few projects I’ve worked on recently.
 
 ---
 
-### 🌐 [CAPP Public Data Explorer]
+### 🌐 CAPP Public Data Explorer
 
 - Collaborated on a scalable platform for ingesting and visualizing public datasets via a **Django web interface**
 - Built a Python ETL system scraping and standardizing **40,000+ datasets**
