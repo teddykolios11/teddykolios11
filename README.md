@@ -24,7 +24,18 @@ An interactive soccer analytics application built using StatsBomb open event dat
 **Tech:** Python, pandas, scikit-learn, MLflow, FastAPI, React, StatsBomb
 
 ---
+### 💬 ClearFeed — Social Media Analysis Platform
 
+A web application for collecting and analyzing social media content using natural language processing.
+
+- Built a **Django-based web interface** for exploring social media posts and their associated NLP results.
+- Developed a data ingestion pipeline using **Zeeschuimer** to collect and organize social media data.
+- Implemented NLP analysis for **topic classification, sentiment, and toxicity** to better understand online discussions.
+- Designed a structured data model separating post-level information from user-specific interactions to reduce redundancy.
+
+**Tech:** Python, Django, NLP, Data Ingestion, Data Modeling
+
+---
 ### 🧠 [NLP & Topic Modeling of NSF Research Grants](https://github.com/teddykolios11/NSF)
 
 An exploration of how research topics and funding priorities have evolved across NSF grants from 2019–2025.
