@@ -1,56 +1,89 @@
-# Bio
+Hi, I’m Teddy
 
-Hello! My name is **Teddy Kolios**, and I’m a graduate student in **Computational Analysis and Public Policy (MSCAPP)** at the **University of Chicago**, graduating **June 2026**.
+I’m a software engineer and recent graduate of the University of Chicago’s MS in Computational Analysis and Public Policy (MSCAPP) program, with a background in computer science from Washington University in St. Louis.
 
-I have a strong foundation in **computer science, software engineering, and data engineering**, with hands-on experience delivering code in fast-paced, production-oriented environments.
+My interests span data engineering, data science, and machine learning, from building pipelines and data infrastructure to developing models and applications that make use of that data. I enjoy working across the full data lifecycle and am interested in opportunities that involve both the engineering and analytical sides of working with data.
 
-My graduate work focuses on **machine learning, statistical modeling, and large-scale data systems**, and I’m actively pursuing **data scientist roles** where I can apply these skills to build scalable, data-driven solutions to real-world problems.
+Lately, I’ve been working on projects involving sports analytics, large-scale data processing, and applied machine learning. Here are a few of them.
 
-Below are a few projects I’ve worked on recently.
+⸻
 
----
+Featured Projects
 
-# Featured Projects
+⚽ StatXavi — Soccer Player Analytics & Similarity
 
----
+Live App | GitHub Repository
 
-### 🧠 [Large-Scale NLP & Topic Modeling on NSF Abstracts](https://github.com/teddykolios11/NSF)
+An interactive soccer analytics application built using StatsBomb open event data. StatXavi lets users explore player statistics, compare playing styles, and discover statistically similar players across different leagues and international tournaments.
 
-- Built an end-to-end NLP pipeline analyzing **80,000+ NSF grant abstracts (2019–2025)**
-- Applied **TF-IDF**, **Sentence Transformer embeddings**, **LDA topic modeling**, and **Bayesian changepoint detection (PyMC)**
-- Tracked topic and language shifts over time and across grant categories using embedding similarity and Bayesian modeling
-- Developed automated pipelines and interactive tools to support scalable exploratory text analysis  
+* Built a data pipeline to transform match-level event data into player-season statistics and standardized performance metrics.
+* Developed a PCA-based similarity model to identify players with comparable statistical profiles, with model evaluation tracked using MLflow.
+* Built a FastAPI backend and React frontend featuring player search, similarity rankings, percentile visualizations, and interactive PCA plots.
+* Deployed the application using Render and Vercel.
 
-**Technologies:** Python, scikit-learn, Sentence Transformers, PyMC, pandas
+Tech: Python, pandas, scikit-learn, MLflow, FastAPI, React, StatsBomb
 
----
+⸻
 
-### 🚓 [Chicago Crime & Weather Big Data Analytics Platform](https://github.com/teddykolios11/chicago-crime-weather-dash)
+🧠 NLP & Topic Modeling of NSF Research Grants
 
-- Designed an end-to-end **Lambda Architecture** integrating **HDFS, Hive, Spark (Scala), HBase, and Node.js**
-- Processed **6M+ records** of Chicago crime and weather data (2005–2025)
-- Built Spark ML pipelines for feature engineering and crime count prediction using temporal and weather features
-- Persisted aggregates and model outputs to HBase for low-latency querying
-- Developed a Node.js dashboard for interactive exploration and on-demand predictions  
+An exploration of how research topics and funding priorities have evolved across NSF grants from 2019–2025.
 
-**Technologies:** Spark (Scala), HDFS, Hive, HBase, Node.js, Spark ML
+* Analyzed 80,000+ grant abstracts using traditional NLP methods and transformer-based embeddings.
+* Applied TF-IDF, Sentence Transformers, and LDA to identify and compare research topics.
+* Used Bayesian changepoint detection (PyMC) to investigate shifts in research themes over time.
+* Built reusable data processing and analysis workflows for exploring trends across grant categories.
 
----
+Tech: Python, scikit-learn, Sentence Transformers, PyMC, pandas
 
-### 🌐 CAPP Public Data Explorer
+⸻
 
-- Collaborated on a scalable platform for ingesting and visualizing public datasets via a **Django web interface**
-- Built a Python ETL system scraping and standardizing **40,000+ datasets**
-- Integrated sources including **OECD**, **Chicago Data Portal**, and **Open Government Canada**  
+🚓 Chicago Crime & Weather Analytics Platform
 
-**Technologies:** Python, Django, ETL pipelines, web scraping
+A big data application exploring the relationship between Chicago crime patterns, weather, and time.
 
----
+* Processed 6M+ crime and weather records (2005–2025) using a distributed data architecture.
+* Built data processing and aggregation pipelines with HDFS, Hive, and Apache Spark (Scala).
+* Trained Spark ML models to predict crime counts using temporal and weather features.
+* Stored aggregated data and predictions in HBase, with a Node.js dashboard for interactive exploration.
 
-### 📊 [Economic Structure in U.S. Cities Dashboard](https://github.com/teddykolios11/CAPP-economic-structure-dash)
+Tech: Spark, Scala, HDFS, Hive, HBase, Node.js, Spark ML
 
-- Built an interactive dashboard exploring population and economic shifts across U.S. metro areas
-- Collected and analyzed **2M+ rows** of Census and BLS data
-- Visualized trends using interactive Plotly dashboards  
+⸻
 
-**Technologies:** Python, Plotly, ETL pipelines
+🌐 CAPP Public Data Explorer
+
+A public data discovery platform developed during my data science internship at the University of Chicago.
+
+* Built Python ETL workflows to ingest and standardize metadata from 40,000+ public datasets.
+* Integrated sources including the OECD, Chicago Data Portal, and Open Government Canada.
+* Helped develop a Django-based web application for searching and exploring datasets.
+* Worked with PostgreSQL to organize dataset metadata and support efficient querying.
+
+Tech: Python, Django, PostgreSQL, ETL, Web Scraping
+
+⸻
+
+📊 Economic Structure in U.S. Cities
+
+An interactive dashboard exploring how employment, industries, and economic specialization vary across U.S. metropolitan areas.
+
+* Processed 2M+ rows of Census and Bureau of Labor Statistics data.
+* Analyzed regional employment patterns and industry concentration.
+* Built interactive visualizations using Plotly Dash.
+
+Tech: Python, pandas, Plotly Dash
+
+⸻
+
+Tech Stack
+
+Languages: Python, SQL, Scala, Java, C#, JavaScript
+
+Data & ML: pandas, scikit-learn, PyTorch, Spark, MLflow, PostgreSQL, HBase
+
+Web & Tools: FastAPI, Django, React, Node.js, Git, Docker, AWS
+
+⸻
+
+I’m always interested in opportunities to work on interesting problems involving data, machine learning, and software engineering.
