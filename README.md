@@ -96,5 +96,3 @@ An interactive dashboard exploring how employment, industries, and economic spec
 **Web & Tools:** FastAPI, Django, React, Node.js, Git, Docker, AWS
 
 ---
-
-I'm always interested in opportunities to work on interesting problems involving data, machine learning, and software engineering.
