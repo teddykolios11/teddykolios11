@@ -1,6 +1,6 @@
-# Hi, I'm Teddy 👋
+## Bio
 
-I'm a software engineer and recent graduate of the **University of Chicago's MS in Computational Analysis and Public Policy (MSCAPP)** program, with a background in computer science from Washington University in St. Louis.
+Hi! My name is Teddy Kolios -- I'm a software engineer and recent graduate of the **University of Chicago's MS in Computational Analysis and Public Policy (MSCAPP)** program, with a background in computer science from Washington University in St. Louis.
 
 My interests span **data engineering, data science, and machine learning**, from building pipelines and data infrastructure to developing models and applications that make use of that data. I enjoy working across the full data lifecycle and am interested in opportunities that involve both the engineering and analytical sides of working with data.
 
