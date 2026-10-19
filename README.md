@@ -24,7 +24,7 @@ An interactive soccer analytics application built using StatsBomb open event dat
 **Tech:** Python, pandas, scikit-learn, MLflow, FastAPI, React, StatsBomb
 
 ---
-### 💬 ClearFeed — Social Media Analysis Platform
+### 💬 [ClearFeed — Social Media Analysis Platform](https://github.com/teddykolios11/ClearFeed-Capture)
 
 A web application for collecting and analyzing social media content using natural language processing.
 
